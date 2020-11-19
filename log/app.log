@@ -349,3 +349,54 @@
 2020-02-26 16:12:23.399  INFO 4416 --- [JavaFX Application Thread] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
 2020-02-26 16:12:23.568  INFO 4416 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 1.543 seconds (JVM running for 2.162)
 2020-02-26 16:12:23.590  WARN 4416 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.191
+2020-02-29 08:51:03.613  INFO 6364 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on PROGRAMADOR2 with PID 6364 (started by Jorge.Mina in E:\DOCUMENTOS\DESARROLLO\PRUEBAS\horario)
+2020-02-29 08:51:03.639  INFO 6364 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2020-02-29 08:51:04.242  INFO 6364 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-29 08:51:04.400  INFO 6364 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 150ms. Found 1 JPA repository interfaces.
+2020-02-29 08:51:04.858  INFO 6364 --- [JavaFX Application Thread] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-29 08:51:04.997  INFO 6364 --- [JavaFX Application Thread] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-29 08:51:05.245  INFO 6364 --- [JavaFX Application Thread] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-29 08:51:05.426  INFO 6364 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-29 08:51:05.698  INFO 6364 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-29 08:51:05.708  INFO 6364 --- [JavaFX Application Thread] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-02-29 08:51:07.317  INFO 6364 --- [JavaFX Application Thread] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-29 08:51:07.336  INFO 6364 --- [JavaFX Application Thread] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:51:07.774  INFO 6364 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.816 seconds (JVM running for 8.604)
+2020-02-29 08:51:07.999  WARN 6364 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.241
+2020-02-29 08:51:12.663  INFO 6364 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:51:12.667  INFO 6364 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-29 08:51:12.711  INFO 6364 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-29 08:53:52.798  INFO 15740 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on PROGRAMADOR2 with PID 15740 (started by Jorge.Mina in E:\DOCUMENTOS\DESARROLLO\PRUEBAS\horario)
+2020-02-29 08:53:52.800  INFO 15740 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2020-02-29 08:53:53.090  INFO 15740 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-29 08:53:53.130  INFO 15740 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35ms. Found 1 JPA repository interfaces.
+2020-02-29 08:53:53.343  INFO 15740 --- [JavaFX Application Thread] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-29 08:53:53.378  INFO 15740 --- [JavaFX Application Thread] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-29 08:53:53.442  INFO 15740 --- [JavaFX Application Thread] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-29 08:53:53.492  INFO 15740 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-29 08:53:53.562  INFO 15740 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-29 08:53:53.570  INFO 15740 --- [JavaFX Application Thread] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-02-29 08:53:54.243  INFO 15740 --- [JavaFX Application Thread] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-29 08:53:54.247  INFO 15740 --- [JavaFX Application Thread] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:53:54.416  INFO 15740 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 1.847 seconds (JVM running for 2.472)
+2020-02-29 08:53:54.439  WARN 15740 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.241
+2020-02-29 08:53:57.317  INFO 15740 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:53:57.320  INFO 15740 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-29 08:53:57.323  INFO 15740 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-29 08:55:41.692  INFO 11556 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on PROGRAMADOR2 with PID 11556 (started by Jorge.Mina in E:\DOCUMENTOS\DESARROLLO\PRUEBAS\horario)
+2020-02-29 08:55:41.694  INFO 11556 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2020-02-29 08:55:41.965  INFO 11556 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-02-29 08:55:42.006  INFO 11556 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36ms. Found 1 JPA repository interfaces.
+2020-02-29 08:55:42.223  INFO 11556 --- [JavaFX Application Thread] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-02-29 08:55:42.257  INFO 11556 --- [JavaFX Application Thread] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.10.Final}
+2020-02-29 08:55:42.323  INFO 11556 --- [JavaFX Application Thread] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-02-29 08:55:42.375  INFO 11556 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-29 08:55:42.440  INFO 11556 --- [JavaFX Application Thread] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-29 08:55:42.449  INFO 11556 --- [JavaFX Application Thread] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-02-29 08:55:43.079  INFO 11556 --- [JavaFX Application Thread] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-02-29 08:55:43.087  INFO 11556 --- [JavaFX Application Thread] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:55:43.263  INFO 11556 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 1.823 seconds (JVM running for 2.444)
+2020-02-29 08:55:43.286  WARN 11556 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 11.0.1 by JavaFX runtime of version 8.0.241
+2020-02-29 08:55:46.013  INFO 11556 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-29 08:55:46.015  INFO 11556 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-29 08:55:46.019  INFO 11556 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
